@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Claude Drop
+Comment=Lightweight system tray chat for Claude
+Exec=python3 /home/tigran-hambardzumyan/workspace/claude/claude_drop.py
+Icon=claude-drop-icon
+Terminal=false
+Categories=Utility;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
